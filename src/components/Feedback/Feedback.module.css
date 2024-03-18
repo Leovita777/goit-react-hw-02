@@ -1,0 +1,18 @@
+.feedbackContainer {
+  background-color: rgba(223, 234, 234, 0.85);
+  border-radius: 20px;
+  border: 1px solid black;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  max-width: 500px;
+  padding: 40px;
+}
+
+.feedbackItem {
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 2, 0.9);
+}
